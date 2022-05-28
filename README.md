@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://sherbahadurpun.github.io/images/images/github-header-image.png" alt="my banner">
 
-I'm Sher Bahadur Pun. I'm a self-taught full-stack developer from Nepal. The Internet and web development are my passion and I believe in helping people with my abilities and knowledge. I have been learning these things for the last two years, and it feels like learning is a part of my life now. And, I also have a YouTube channel where I upload creative web tutorials.
+I'm Sher Bahadur Pun. I'm a self-taught full-stack developer from Nepal. The Internet and web development are my passion and I believe in helping people with my abilities and knowledge. I have been learning these things for the last two years, and it feels like learning is a part of my life now. And, I also have a YouTube channel "CodeWithSher" where I upload creative web tutorials.
 
 ## 💫 Liitle Bit More About Me
 
