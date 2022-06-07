@@ -1,10 +1,14 @@
 # Hi there 👋, My name is Sher Bahadur Pun
 
-<img width="100%" src="https://sherbahadurpun.github.io/images/images/github-header-image.png" alt="my banner">
+<img width="100%" src="https://raw.githubusercontent.com/sherbahadurpun/sherbahadurpun/main/github-header-image.png" alt="my banner">
 
-I'm Sher Bahadur Pun. I'm a self-taught full-stack developer from Nepal. The Internet and web development are my passion and I believe in helping people with my abilities and knowledge. I have been learning these things for the last two years, and it feels like learning is a part of my life now. And, I also have a YouTube channel "CodeWithSher" where I upload creative web tutorials.
+I'm Sher Bahadur Pun. I'm a self-taught front-end developer from Nepal. The Internet and web development are my passion and I believe in helping people with my abilities and knowledge. I have been learning these things for the last two years, and it feels like learning is a part of my life now. And, I also have a YouTube channel "CodeWithSher" where I upload coding tips, tricks, and tutorials.
 
 ## 💫 Liitle Bit More About Me
+<p>🌱 I'm currently learning Node.js and Express.js</p>
+<p>💬 Ask me about Front-end Development</p>
+<p>📫 How to reach me? codewithsher@gmail.com</p>
+<p>All of my projects are available at <a href="https://www.codewithsher.com/">CodeWithSher</a></p>
 
 ## 💻 Skills
 <p>
@@ -18,7 +22,6 @@ I'm Sher Bahadur Pun. I'm a self-taught full-stack developer from Nepal. The Int
 <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" style="margin-bottom: 4px;" height="30px">
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
 </p>
 
 ## 👥 Connect With Me
@@ -26,15 +29,16 @@ I'm Sher Bahadur Pun. I'm a self-taught full-stack developer from Nepal. The Int
 <a href="https://linkedin.com/in/sher-bahadur-pun-643172211"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://twitter.com/codewithsher"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://twitter.com/sherbahadurpun"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://www.facebook.com/iamsherbahadurpun"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.facebook.com/codewithsher"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://www.instagram.com/codewithsher"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="[https://www.youtube.com/c/CodeWithSher](https://www.youtube.com/channel/UCrDZsPU3-SqF0JVvvsfblug)"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/UCrDZsPU3-SqF0JVvvsfblug"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
 ## 🌟 Github Badges
 <p>
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" height="24px">
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" height="24px">
+<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" height="24px">
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" height="24px">
 <img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif" height="24px">
 </p>
