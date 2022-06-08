@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/sherbahadurpun/sherbahadurpun/main/github-header-image.png" alt="my banner">
 
-I'm Sher Bahadur Pun. I'm a self-taught front-end developer from Nepal. The Internet and web development are my passion and I believe in helping people with my abilities and knowledge. I have been learning these things for the last two years, and it feels like learning is a part of my life now. And, I also have a YouTube channel "CodeWithSher" where I upload coding tips, tricks, and tutorials.
+I'm Sher Bahadur Pun. I'm a self-taught front-end developer. The Internet and web development are my passion and I believe in helping people with my abilities and knowledge. I have been learning these things for the last two years, and it feels like learning is a part of my life now. And, I also have a YouTube channel "CodeWithSher" where I upload coding tips, tricks, and tutorials.
 
 ## 💫 Liitle Bit More About Me
 <p>🌱 I'm currently learning Node.js and Express.js</p>
@@ -28,10 +28,10 @@ I'm Sher Bahadur Pun. I'm a self-taught front-end developer from Nepal. The Inte
 <p>
 <a href="https://linkedin.com/in/sher-bahadur-pun-643172211"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://twitter.com/codewithsher"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://twitter.com/sherbahadurpun"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://discord.com/sherbahadurpun"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://www.facebook.com/codewithsher"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 <a href="https://www.instagram.com/codewithsher"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/UCrDZsPU3-SqF0JVvvsfblug"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="[https://www.youtube.com/c/https://www.youtube.com/channel/UCrDZsPU3-SqF0JVvvsfblug](https://www.youtube.com/channel/UCrDZsPU3-SqF0JVvvsfblug)"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
 ## 🌟 Github Badges
