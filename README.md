@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/sherbahadurpun/sherbahadurpun/main/github-header-image.png" alt="my banner">
 
-I'm Sher Bahadur Pun. I'm a self-taught front-end developer. The Internet and web development are my passion and I believe in helping people with my abilities and knowledge. I have been learning these things for the last two years, and it feels like learning is a part of my life now. And, I also have a YouTube channel "CodeWithSher" where I upload coding tips, tricks, and tutorials.
+I'm Sher Bahadur Pun. I'm a self-taught front-end developer. The Internet and web development are my passion and I believe in helping people with my abilities and knowledge. I have been learning these things for the last two years, and it feels like learning is a part of my life now.
 
 ## 💫 Liitle Bit More About Me
 <p>🌱 I'm currently learning Node.js and Express.js</p>
