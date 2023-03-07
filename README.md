@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Love to Code <br>📚 I'm currently learning Next.js<br>🎲 Fun fact:</p>
+<p align="left">✨ Love to Code <br>📚 I'm currently learning Next.js<br>🎲 Fun fact: I use tabs over spaces</p>
 
 ###
 
