@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sher Bahadur Pun. I am Frontend Developer and Freelancer.</p>
+<p align="left">My name is Sher Bahadur Pun. I am a front-end developer and a freelancer.</p>
 
 ###
 
